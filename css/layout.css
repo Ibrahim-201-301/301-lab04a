@@ -1,0 +1,87 @@
+#a {
+  width: 100%;
+  height: 75px;
+  background-color: #B8336A;
+}
+
+#a p {
+  line-height: 75px;
+}
+
+#b {
+  width: 100%;
+  height: 150px;
+  background-color: #C490D1;
+}
+
+#b p {
+  line-height: 150px;
+}
+
+#cd {
+  width: 100%;
+  height: 250px;
+}
+
+#c {
+  width: 100%;
+  height: 50%;
+  background-color: #D17DA0;
+}
+
+#d {
+  width: 100%;
+  height: 50%;
+  background-color: #DEA2BB;
+}
+
+#c, #d p {
+  line-height: 125px;
+}
+
+#efgh {
+  width: 100%;
+  height: 500px;
+}
+
+#e {
+  width: 50%;
+  height: 50%;
+  float: left;
+  background-color: #CACAEA;
+}
+
+#f {
+  width: 50%;
+  height: 50%;
+  float: right;
+  background-color: #C9E7FD;
+}
+
+#g {
+  width: 50%;
+  height: 50%;
+  float: left;
+  background-color: #ABDAFC;
+}
+
+#h {
+  width: 50%;
+  height: 50%;
+  float: right;
+  background-color: #ACACDE;
+}
+
+#e, #f, #g, #h p {
+  line-height: 250px;
+}
+
+#i {
+  width: 100%;
+  height: 80px;
+  background-color: #BE4577;
+}
+
+#i p {
+  line-height: 80px;
+}
